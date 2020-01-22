@@ -234,5 +234,5 @@ async def 재생목록(ctx, url: str):
 
     print("노래가 추가되었습니다.\n")
 
-
-client.run('NjY5NDcxNjI4OTY2NjI1Mjgx.XigUYw._Dg6xm7JmhPRNPR4v-jLme8Tj3g')
+access_token = os.environ["BOT_TOKEN"]
+client.run(access_token)
