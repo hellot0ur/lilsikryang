@@ -184,6 +184,5 @@ class MyClient(discord.Client):
                     await choose1.add_reaction('✋')
 
 
-access_token = os.environ["BOT_TOKEN"]
 client = MyClient()
-client.run(access_token)
+client.run('NjY5NDcxNjI4OTY2NjI1Mjgx.XijQHQ.fgeS-a6IPdJDs71m7bEfHiEtJWg')
