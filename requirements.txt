@@ -1,5 +1,4 @@
 discord.py==1.2.5
-bs4.py==0.0.1
 youtube-dl.py==2020.1.15
 urllib3.py==1.25.8
 beautifulsoup4.py==4.8.2
