@@ -1,0 +1,7 @@
+discord.py=0.16.12
+bs4.py=0.0.1
+youtube-dl.py=2020.1.15
+urllib3.py=1.25.8
+beautifulsoup4.py=4.8.2
+fudge.py=1.1.1
+soupsieve.pv=1.9.5
