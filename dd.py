@@ -1,4 +1,5 @@
 import discord
+import os
 import random
 import asyncio
 from urllib.request import urlopen, Request
@@ -183,6 +184,6 @@ class MyClient(discord.Client):
                     await choose1.add_reaction('✋')
 
 
-
+access_token = os.environ["BOT_TOKEN"]
 client = MyClient()
-client.run('NjY5NDcxNjI4OTY2NjI1Mjgx.XigUYw._Dg6xm7JmhPRNPR4v-jLme8Tj3g')
+client.run(access_token)
