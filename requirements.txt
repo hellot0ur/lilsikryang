@@ -8,7 +8,7 @@ fudge==1.1.1
 soupsieve==1.9.5
 aiohttp==3.5.4
 async-timeout==3.0.1
-certifi==2019.11.28
+certifi==2022.12.7
 cffi==1.13.2
 chardet==3.0.4
 idna==2.8
